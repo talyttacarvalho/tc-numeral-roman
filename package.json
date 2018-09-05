@@ -1,0 +1,29 @@
+{
+  "name": "tc-numeral-roman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talyttacarvalho/tc-numeral-roman.git"
+  },
+  "keywords": [
+    "roman"
+  ],
+  "author": "Talytta Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talyttacarvalho/tc-numeral-roman/issues"
+  },
+  "homepage": "https://github.com/talyttacarvalho/tc-numeral-roman#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "nyc": "^13.0.1"
+  }
+}
