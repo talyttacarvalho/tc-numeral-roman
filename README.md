@@ -24,7 +24,7 @@ $node
 
 ## Versão 1.0.0
 
-* Funcionalidades: conversão de algarismos romanos para algarismos arábicos e também, o caminho iverso.
+* Funcionalidades: conversão de um número romano para número arábico até 3.999.
 * Os algarismos romanos podem ser digitados com letras maiúsculas ou minúsculas.
 
 ## Instalação
@@ -37,7 +37,11 @@ $npm install tc-numeral-roman
 
 ## Roadmap oficial do projeto
 
+### versão 2.0.0 (sem previsão)
+
+* Implantar o conversor de algarismos romanos e arábicos acima de 3.999.
+
 ### versão 1.0.0 (released)
 
-* Funcionalidades: conversão de algarismos romanos para algarismos arábicos e também, o caminho iverso.
+* Funcionalidades: conversão de um número romano para número arábico até 3.999.
 * Os algarismos romanos podem ser digitados com letras maiúsculas ou minúsculas.
