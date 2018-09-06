@@ -8,7 +8,7 @@
 
 ```
 $node
-> let converter = require("tc-numeral-roman")
+> let converter = require("tc-roman-number")
 > converter.romanToInt("XIV")
 > //14
 ```
@@ -17,7 +17,7 @@ $node
 
 ```
 $node
-> let converter = require("tc-numeral-roman")
+> let converter = require("tc-roman-number")
 > converter.intToRoman(14)
 > //"XIV"
 ```
@@ -32,7 +32,7 @@ $node
 * É necessário ter o node + npm já instalados em sua máquina. Para guia de instação visite o [site oficial].
 * Proceda a instalação utilizando
 ```
-$npm install tc-numeral-roman
+$npm install tc-roman-number
 ```
 
 ## Roadmap oficial do projeto
@@ -41,7 +41,13 @@ $npm install tc-numeral-roman
 
 * Implantar o conversor de algarismos romanos e arábicos acima de 3.999.
 
+### versão 1.0.1 (released)
+
+* Readme atualizado.
+
 ### versão 1.0.0 (released)
 
 * Funcionalidades: conversão de um número romano para número arábico até 3.999.
 * Os algarismos romanos podem ser digitados com letras maiúsculas ou minúsculas.
+
+
