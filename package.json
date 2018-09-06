@@ -11,7 +11,25 @@
     "url": "git+https://github.com/talyttacarvalho/tc-numeral-roman.git"
   },
   "keywords": [
-    "roman"
+    "roman",
+    "arabic",
+    "numeral",
+    "number",
+    "numeral-roman",
+    "number-roman",
+    "numeral-arabic",
+    "number-arabic",
+    "converter",
+    "converter-numeral-roman",
+    "romano",
+    "arabico",
+    "numero",
+    "algoritmo-romano",
+    "numero-romano",
+    "algoritmo-arabico",
+    "numero-arabico",
+    "conversor",
+    "conversor-de-algoritmo-romano"
   ],
   "author": "Talytta Carvalho",
   "license": "MIT",
