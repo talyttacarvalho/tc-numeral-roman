@@ -22,7 +22,7 @@ $node
 > //"XIV"
 ```
 
-## Versão 1.0.0
+## Versão 1.0.1
 
 * Funcionalidades: conversão de um número romano para número arábico até 3.999.
 * Os algarismos romanos podem ser digitados com letras maiúsculas ou minúsculas.
