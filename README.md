@@ -22,7 +22,7 @@ $node
 > //"XIV"
 ```
 
-## Versão 1.0.1
+## Versão 1.0.2
 
 * Funcionalidades: conversão de um número romano para número arábico até 3.999.
 * Os algarismos romanos podem ser digitados com letras maiúsculas ou minúsculas.
@@ -41,7 +41,7 @@ $npm install tc-roman-number
 
 * Implantar o conversor de algarismos romanos e arábicos acima de 3.999.
 
-### versão 1.0.1 (released)
+### versão 1.0.2 (released)
 
 * Readme atualizado.
 
